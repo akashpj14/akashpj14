@@ -18,8 +18,6 @@ Frameworks & Tools:  Git, MySQL
 
 Core Concepts: OOP, DSA, Problem Solving
 
-📊 GitHub Stats
-
 🌐 Connect with me
 
 📧 Email: akashpj2004@gmail.com
