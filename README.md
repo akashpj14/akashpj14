@@ -1,4 +1,6 @@
+
 👋 Hi, I’m Akash
+I’m a Python developer with skills in SQL and Figma, passionate about building automation tools, data-driven solutions, and user-friendly designs while continuously learning and growing.
 
 💻 Python Developer | Problem Solver | Tech Enthusiast
 
